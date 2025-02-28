@@ -4,8 +4,9 @@
 📱 Passionate about mobile apps and problem-solving.  
 🔧 Always learning new technologies!  
 
-🔗 My Projects  
-- [Project 1](#) - Description
+- ## 🔗 My Projects  
+- [Easy Notes](#) - An advanced note-taking Android app.  
+
 - 
 📫 Contact Me  
 - GitHub: [github.com/Malekmohamed50](https://github.com/Malekmohamed50)
