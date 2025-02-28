@@ -5,7 +5,7 @@
 🔧 Always learning new technologies!  
 
 - ## 🔗 My Projects  
-- [Easy Notes](PASTE_LINK_HERE) - A simple note-taking Android app.   
+- [Easy Notes](https://github.com/Malekmohamed50/portfolio-projects/blob/main/easy_notes.zip) - A simple note-taking Android app.   
 
 - 
 📫 Contact Me  
