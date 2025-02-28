@@ -5,7 +5,7 @@
 🔧 Always learning new technologies!  
 
 - ## 🔗 My Projects  
-- [Easy Notes](#) - An advanced note-taking Android app.  
+- [Easy Notes](PASTE_LINK_HERE) - A simple note-taking Android app.   
 
 - 
 📫 Contact Me  
